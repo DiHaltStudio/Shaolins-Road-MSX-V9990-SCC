@@ -1,0 +1,84 @@
+{
+ "cover": "assets/intro/opening.png",
+ "cover_shot": "docs/img/cover.png",
+ "title": "docs/img/title.png",
+ "montage": [
+  "docs/img/cover.png",
+  "docs/img/title.png",
+  "docs/img/play_s0.png",
+  "docs/img/boss_s2.png",
+  "docs/img/boss_s4.png",
+  "docs/img/guts.png"
+ ],
+ "huds": [
+  {
+   "name": "hud",
+   "src": "docs/img/boss_s1.png",
+   "box": [
+    30,
+    0,
+    290,
+    46
+   ],
+   "labels": [
+    [
+     1,
+     86,
+     16
+    ],
+    [
+     2,
+     159,
+     16
+    ],
+    [
+     3,
+     226,
+     16
+    ],
+    [
+     4,
+     67,
+     25,
+     "b"
+    ],
+    [
+     5,
+     172,
+     25,
+     "b"
+    ],
+    [
+     6,
+     130,
+     33,
+     "b"
+    ]
+   ]
+  }
+ ],
+ "label": {
+  "lines": [
+   "MSX1 · 64 KB RAM",
+   "SCC MegaROM · 1 MiB"
+  ],
+  "credit": "KONAMI 1985  ·  V9990 PORT: DIHALT STUDIO 2026",
+  "crop": [
+   0,
+   0,
+   804,
+   490
+  ],
+  "accent": [
+   214,
+   96,
+   24
+  ],
+  "bg": [
+   8,
+   8,
+   20
+  ],
+  "fit": true
+ }
+}
